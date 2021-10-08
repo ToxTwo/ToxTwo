@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ToxTwo
+- 👀 I’m interested in gaming and coding bots and programs.
+- 🌱 I’m currently learning C Sharp.
+- 📫 How to reach me:
+  - Discord - ToxTwo#2222
+  - Email - toxtwodev@gmail.com
